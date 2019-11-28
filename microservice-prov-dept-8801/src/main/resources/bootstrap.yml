@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: microservice-prov-dept-8801
+      label: master
+      profile: dev
+      uri: http://syh.com:9999

@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: microservice-gateway
+      profile: dev
+      label: master
+      uri: http://syh.com:9999

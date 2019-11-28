@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: microservice-eureka-4003
+      label: master
+      profile: dev
+      uri: http://syh.com:9999

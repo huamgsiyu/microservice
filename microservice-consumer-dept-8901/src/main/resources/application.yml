@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: microservice-consumer-dept-8901 # 对应分布式配置中心的yml配置文件名，没有yml后缀

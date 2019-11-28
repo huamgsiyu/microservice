@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: microservice-prov-dept-8802

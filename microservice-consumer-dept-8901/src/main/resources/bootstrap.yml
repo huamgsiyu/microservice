@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: microservice-consumer-dept-8901 # 对应分布式配置中心的yml配置文件名，没有yml后缀
+      label: master                         # 分支
+      profile: dev                          # 起作用的环境
+      uri: http://syh.com:9999              # 分布式配置中心的地址
